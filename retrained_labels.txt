@@ -1,0 +1,11 @@
+cardigan
+jackets
+longpants
+longsleeve
+coat
+shortsleeve
+padding
+sweatshirts
+shortpants
+sleeveless
+knit
