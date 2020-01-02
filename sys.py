@@ -70,7 +70,7 @@ def run_inception():
 
 
 def fill_database():
-    conn = pymysql.connect(host='wcmain.c7dilglxsf9a.ap-northeast-2.rds.amazonaws.com', user='wcmain', password='wcmain1234',
+    conn = pymysql.connect(host='****', user='wcmain', password='****',
                            db='wcmain', charset='utf8')
     curs = conn.cursor(pymysql.cursors.DictCursor)
 
